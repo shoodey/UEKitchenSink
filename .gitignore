@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Generated IDE/project files
+*.xcodeproj
+*.xcworkspace
+*.sln
+.vs/
+.vscode/
+.idea/
+
+# Unreal generated
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Developers
+Plugins/Developer/
+Content/Developers

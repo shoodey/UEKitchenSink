@@ -1,0 +1,8 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+#include "KitchenSink.h"
+#include "Modules/ModuleManager.h"
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, KitchenSink, "KitchenSink" );
+
+DEFINE_LOG_CATEGORY(LogKitchenSink)
