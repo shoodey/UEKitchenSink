@@ -1,0 +1,3 @@
+[submodule "Plugins/GameSystems"]
+	path = Plugins/GameSystems
+	url = git@github.com:shoodey/UEGameSystems.git
