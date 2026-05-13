@@ -17,5 +17,10 @@ Intermediate/
 Saved/
 
 # Developers
+_*/
+.claude/
 Plugins/Developer/
 Content/Developers
+
+# Preferences
+*.uproject.DotSettings.user
