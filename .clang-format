@@ -39,7 +39,7 @@ BinPackParameters: false
 BreakConstructorInitializers: BeforeColon
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
 IndentCaseLabels: false
-NamespaceIndentation: None
+NamespaceIndentation: All
 
 # Includes — preserve author-grouped order (UE convention groups: own header, engine, plugin, third-party)
 SortIncludes: CaseSensitive

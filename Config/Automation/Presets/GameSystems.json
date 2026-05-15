@@ -1,0 +1,12 @@
+{
+	"id": "GameSystems",
+	"name": "GameSystems",
+	"enabledTests": [
+		"GSInventory.Smoke.compiles and runs",
+		"GSInventory.TryReceiveItem.with a slot-limited inventory.caps new rows and reports leftover when slots are full",
+		"GSInventory.TryReceiveItem.with an empty inventory.absorbs a single entry whole",
+		"GSInventory.TryReceiveItem.with an empty inventory.spills overflow into new rows when over MaxStackSize",
+		"GSInventory.TryReceiveItem.with an empty inventory.stacks repeated adds of the same item below MaxStackSize",
+		"GSInventory.TryReceiveItem.with multiple distinct item definitions.does not cross-merge different definitions"
+	]
+}
