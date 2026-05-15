@@ -18,7 +18,9 @@ public class KitchenSink : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate",
+			"GameplayTags",
+			"GSInventory"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
